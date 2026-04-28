@@ -34,14 +34,6 @@ A complete full-stack web application for college management.
 6. **Access Application**:
    - Open your browser and go to `http://localhost/mini` (or whatever the folder name is).
 
-## Default Login Credentials
-
-**Admin:**
-- Username: `admin`
-- Password: `admin123`
-
-*(You can create faculty and student logins from the Admin panel's User Management section once implemented fully, or insert them directly into the database).*
-
 ## Project Structure
 
 ```
@@ -57,3 +49,15 @@ mini/
 ├── logout.php      # Logout Logic
 └── database.sql    # Database schema and seed data
 ```
+
+## 👨‍💻 Developed By
+Aditya Raj
+
+## 📌 Highlights
+- Clean UI
+- Role-based system
+- Easy to use
+- Academic project
+
+## 📄 License
+Educational purpose only
